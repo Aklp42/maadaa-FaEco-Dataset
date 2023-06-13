@@ -1,6 +1,6 @@
-# Fashion & e-Commerce Standard Datasets
+# Fashion & e-Commerce Open Dataset
 
-We're excited to unveil our comprehensive "Fashion & e-Commerce Standard Datasets," designed to spur innovation in AI technologies across the fashion and e-commerce sectors. 
+We're excited to unveil our comprehensive "Fashion & e-Commerce Open Dataset," designed to spur innovation in AI technologies across the fashion and e-commerce sectors. 
 
 The dataset is organized into 24 typical scenarios, showcasing the richness of real-world environments, conditions, and objects. It is carefully curated to reflect diverse and realistic situations, allowing models to be tested and refined under a wide range of conditions.
 
@@ -21,6 +21,13 @@ Under the following terms:
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 For more details, please visit [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+# Updates
+
+## June 16 Update:
+
+We are thrilled to announce the release of "Fashion & E-Commerce Open Dataset v1.0" as a part of our ongoing Fashion & e-Commerce Datasets project. This newly introduced dataset comprises over 30,000 images with a multitude of scenarios and corresponding annotations. Stay tuned for more updates!
+
 
 # Website
 
