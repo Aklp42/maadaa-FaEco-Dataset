@@ -26,48 +26,27 @@ For more details, please visit [Creative Commons Attribution-ShareAlike 4.0 Inte
 
 To read more about the dataset and access it, please visit ####.
 
+
 # Elements
 
 The dataset contains a variety of scenarios and annotations as described in the tables below:
 
 ## Scenarios
 
-| Scenarios |
-| --- |
-| Clothing Classification |
-| Clothing Keypoints |
-| Clothing Segmentation |
-| Clothing Pattern Classification |
-| Person And Clothing Segmentation |
-| Scarf Segmentation |
-| Fabrics Classification |
-| Human Body Segmentation |
-| Human Body Contour Segmentation |
-| Human Body Keypoints |
-| Single-person Matting |
-| Portrait Matting |
-| Portrait Segmentation |
-| Face Parsing Segmentation |
-| Facial Keypoints |
-| Hair Segmentation |
-| Lips Segmentation |
-| Eyelid Segmentation |
-| E-commerce Product Classification |
-| Objects Segmentation |
-| Object Matting |
-| Bill OCR |
-| Language OCR |
-| Handwriting OCR |
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Clothing Classification | Clothing Keypoints | Clothing Segmentation | Clothing Pattern Classification |
+| Person And Clothing Segmentation | Scarf Segmentation | Fabrics Classification | Human Body Segmentation |
+| Human Body Contour Segmentation | Human Body Keypoints | Single-person Matting | Portrait Matting |
+| Portrait Segmentation | Face Parsing Segmentation | Facial Keypoints | Hair Segmentation |
+| Lips Segmentation | Eyelid Segmentation | E-commerce Product Classification | Objects Segmentation |
+| Object Matting | Bill OCR | Language OCR | Handwriting OCR |
 
 ## Annotations
 
-| Annotations |
-| --- |
-| Keypoints |
-| Counter Segmentation |
-| Classification |
-| Semantic Segmentation |
-| Matting |
-| Bounding Box |
-| OCR |
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Keypoints | Counter Segmentation | Classification | Semantic Segmentation |
+| Matting | Bounding Box | OCR | |
+
 
