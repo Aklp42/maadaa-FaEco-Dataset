@@ -33,7 +33,7 @@ We are thrilled to announce the release of "Fashion & E-Commerce Open Dataset v1
 
 # Website
 
-To read more about the dataset and access it, please visit ####.
+To read more about the dataset and access it, please visit [####](https://maadaa.ai/fashion-e-commerce-open-dataset/).
 
 
 # Elements
