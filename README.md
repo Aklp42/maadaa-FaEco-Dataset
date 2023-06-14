@@ -26,7 +26,7 @@ For more details, please visit [Creative Commons Attribution-NonCommercial-Share
 
 # Updates
 
-## June 16 Update:
+## June 14 Update:
 
 We are thrilled to announce the release of "Fashion & E-Commerce Open Dataset v1.0" as a part of our ongoing Fashion & e-Commerce Datasets project. This newly introduced dataset comprises over 30,000 images with a multitude of scenarios and corresponding annotations. Stay tuned for more updates!
 
