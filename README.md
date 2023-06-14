@@ -1,4 +1,4 @@
-# Fashion & e-Commerce Open Dataset
+# maadaa.ai-Fashion & e-Commerce Open Dataset
 
 We're excited to unveil our comprehensive "Fashion & e-Commerce Open Dataset" designed to spur innovation in AI technologies across the fashion and e-commerce sectors. 
 
