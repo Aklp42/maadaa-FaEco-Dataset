@@ -1,3 +1,5 @@
+![lQLPJwospC-gbXbNBVrNBVKwlwxMTLrqQdEEgNMOuMAGAA_1362_1370 png_720x720q90g](https://github.com/Aklp42/maadaa.ai-FaEO-Dataset/assets/97498546/2b4b7d2a-faa7-4f44-a68d-448b4bf5c899)
+
 # maadaa.ai Fashion & e-Commerce Open Dataset
 
 We're excited to unveil our comprehensive "Fashion & e-Commerce Open Dataset" designed to spur innovation in AI technologies across the fashion and e-commerce sectors. 
