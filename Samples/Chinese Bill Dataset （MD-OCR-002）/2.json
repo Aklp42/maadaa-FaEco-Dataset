@@ -1,0 +1,47 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "vat_liaoning_B",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    320,
+                    3
+                ],
+                [
+                    1695,
+                    102
+                ],
+                [
+                    1763,
+                    1044
+                ],
+                [
+                    181,
+                    1052
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "01dfe7e8dda2443d86964e9558a2b3b0.png",
+    "imageData": null,
+    "imageHeight": 1080,
+    "imageWidth": 1920
+}

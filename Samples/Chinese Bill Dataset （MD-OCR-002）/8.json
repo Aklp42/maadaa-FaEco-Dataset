@@ -1,0 +1,47 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "vat_tianjin_C",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    211,
+                    6
+                ],
+                [
+                    2998,
+                    0
+                ],
+                [
+                    2999,
+                    1799
+                ],
+                [
+                    211,
+                    1799
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "05.png",
+    "imageData": null,
+    "imageHeight": 1800,
+    "imageWidth": 3200
+}

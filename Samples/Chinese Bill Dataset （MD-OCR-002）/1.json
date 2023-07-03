@@ -1,0 +1,372 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "code_132071781210",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    806,
+                    1076
+                ],
+                [
+                    1811,
+                    1082
+                ],
+                [
+                    1813,
+                    1191
+                ],
+                [
+                    806,
+                    1184
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "no_14953566",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1193,
+                    1219
+                ],
+                [
+                    1843,
+                    1225
+                ],
+                [
+                    1842,
+                    1351
+                ],
+                [
+                    1196,
+                    1343
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "section_10000002",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1280,
+                    1831
+                ],
+                [
+                    1761,
+                    1838
+                ],
+                [
+                    1751,
+                    1929
+                ],
+                [
+                    1281,
+                    1915
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "tel_85013899",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1265,
+                    1963
+                ],
+                [
+                    1754,
+                    1971
+                ],
+                [
+                    1750,
+                    2066
+                ],
+                [
+                    1266,
+                    2045
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "lic_G-55856",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1324,
+                    2093
+                ],
+                [
+                    1754,
+                    2111
+                ],
+                [
+                    1748,
+                    2200
+                ],
+                [
+                    1324,
+                    2183
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "cer_005051",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1382,
+                    2231
+                ],
+                [
+                    1735,
+                    2242
+                ],
+                [
+                    1734,
+                    2336
+                ],
+                [
+                    1378,
+                    2318
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "date_2019-07-17",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1133,
+                    2372
+                ],
+                [
+                    1746,
+                    2399
+                ],
+                [
+                    1734,
+                    2484
+                ],
+                [
+                    1133,
+                    2454
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "geton_18:35",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1448,
+                    2518
+                ],
+                [
+                    1746,
+                    2525
+                ],
+                [
+                    1741,
+                    2623
+                ],
+                [
+                    1446,
+                    2605
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "getoff_19:07",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1439,
+                    2651
+                ],
+                [
+                    1739,
+                    2669
+                ],
+                [
+                    1726,
+                    2754
+                ],
+                [
+                    1440,
+                    2739
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "price_2.55元",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1430,
+                    2791
+                ],
+                [
+                    1733,
+                    2804
+                ],
+                [
+                    1733,
+                    2901
+                ],
+                [
+                    1430,
+                    2878
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "kilometre_10.0km",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1377,
+                    2926
+                ],
+                [
+                    1732,
+                    2950
+                ],
+                [
+                    1738,
+                    3036
+                ],
+                [
+                    1377,
+                    3011
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "waittime_00:14.04",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1236,
+                    3044
+                ],
+                [
+                    1725,
+                    3080
+                ],
+                [
+                    1725,
+                    3163
+                ],
+                [
+                    1236,
+                    3129
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "fare_###",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1364,
+                    3181
+                ],
+                [
+                    1729,
+                    3207
+                ],
+                [
+                    1727,
+                    3293
+                ],
+                [
+                    1360,
+                    3256
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "taxi_jiangsu_B",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    699,
+                    293
+                ],
+                [
+                    1984,
+                    332
+                ],
+                [
+                    1876,
+                    3647
+                ],
+                [
+                    599,
+                    3570
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "0d52181634c44ddf8d8da3056050899a.jpg",
+    "imageData": null,
+    "imageHeight": 3648,
+    "imageWidth": 2736
+}

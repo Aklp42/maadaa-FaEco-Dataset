@@ -1,0 +1,422 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "code_112001960221",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1288,
+                    939
+                ],
+                [
+                    2325,
+                    956
+                ],
+                [
+                    2328,
+                    1087
+                ],
+                [
+                    1288,
+                    1057
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "no_42488132",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1379,
+                    1182
+                ],
+                [
+                    1880,
+                    1188
+                ],
+                [
+                    1877,
+                    1293
+                ],
+                [
+                    1352,
+                    1283
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "date_2019-09-19",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1513,
+                    1431
+                ],
+                [
+                    2190,
+                    1441
+                ],
+                [
+                    2187,
+                    1532
+                ],
+                [
+                    1513,
+                    1532
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "section_0000",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1779,
+                    1660
+                ],
+                [
+                    2052,
+                    1663
+                ],
+                [
+                    2052,
+                    1751
+                ],
+                [
+                    1779,
+                    1747
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "tpn_911201011",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1574,
+                    1815
+                ],
+                [
+                    2163,
+                    1811
+                ],
+                [
+                    2160,
+                    1916
+                ],
+                [
+                    1577,
+                    1905
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "tpn_03187015P",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1577,
+                    1939
+                ],
+                [
+                    2183,
+                    1946
+                ],
+                [
+                    2143,
+                    2037
+                ],
+                [
+                    1577,
+                    2037
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "tel_88908890",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1631,
+                    2067
+                ],
+                [
+                    2166,
+                    2067
+                ],
+                [
+                    2153,
+                    2158
+                ],
+                [
+                    1631,
+                    2155
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "lic_E.12306",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1698,
+                    2269
+                ],
+                [
+                    2146,
+                    2276
+                ],
+                [
+                    2146,
+                    2370
+                ],
+                [
+                    1702,
+                    2370
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "geton_18:39",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1459,
+                    2478
+                ],
+                [
+                    1769,
+                    2484
+                ],
+                [
+                    1769,
+                    2569
+                ],
+                [
+                    1459,
+                    2579
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "getoff_19:01",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1846,
+                    2484
+                ],
+                [
+                    2136,
+                    2478
+                ],
+                [
+                    2143,
+                    2572
+                ],
+                [
+                    1846,
+                    2572
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "price_2.55元",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1822,
+                    2682
+                ],
+                [
+                    2152,
+                    2692
+                ],
+                [
+                    2152,
+                    2785
+                ],
+                [
+                    1827,
+                    2777
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "kilometre_16.3km",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1776,
+                    2892
+                ],
+                [
+                    2149,
+                    2899
+                ],
+                [
+                    2149,
+                    2996
+                ],
+                [
+                    1779,
+                    2989
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "waittime_00:04.54",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1625,
+                    3111
+                ],
+                [
+                    2146,
+                    3116
+                ],
+                [
+                    2142,
+                    3212
+                ],
+                [
+                    1628,
+                    3205
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "additional_0.00元",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1820,
+                    3316
+                ],
+                [
+                    2150,
+                    3324
+                ],
+                [
+                    2147,
+                    3415
+                ],
+                [
+                    1820,
+                    3415
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "fare_37.80元",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    1762,
+                    3526
+                ],
+                [
+                    2147,
+                    3528
+                ],
+                [
+                    2147,
+                    3626
+                ],
+                [
+                    1767,
+                    3616
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "taxi_tianjin_C",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    942,
+                    142
+                ],
+                [
+                    2385,
+                    137
+                ],
+                [
+                    2316,
+                    4366
+                ],
+                [
+                    926,
+                    4385
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "3d620fce58ba46c58957846f64f1e40f.jpg",
+    "imageData": null,
+    "imageHeight": 4608,
+    "imageWidth": 3456
+}

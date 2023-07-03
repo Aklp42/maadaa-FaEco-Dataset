@@ -1,0 +1,47 @@
+{
+    "version": "3.16.7",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "vat_beijing_C",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    205,
+                    3
+                ],
+                [
+                    2992,
+                    5
+                ],
+                [
+                    2998,
+                    1799
+                ],
+                [
+                    200,
+                    1799
+                ]
+            ],
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "03.png",
+    "imageData": null,
+    "imageHeight": 1800,
+    "imageWidth": 3200
+}
