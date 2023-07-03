@@ -1,0 +1,10 @@
+1060,361,3500,391,3500,519,1060,498,contwius was a great thinker and eduator in Chinese history.He was the
+1033,498,3572,528,3572,650,1040,627,fander of confucianism,and was respectfully reffered to as an ancient"sage"
+1047,636,3549,649,3542,773,1037,764,His wards and life story were rearded in The Analects.An enduring classic of 
+1045,759,3651,784,3651,899,1029,892,ancient Chinese culture. The Analects has a great influence.on the thinkers,wniters
+1026,887,3656,890,3635,1048,1006,1016,and statesmen that come after Confucius.without studying this book one could
+1013,1022,3681,1016,3667,1164,994,1157,hardlly thly understand the thousands-of-years' traditional chinese culture.madn
+1029,1152,3668,1146,3672,1310,1008,1292,of confucius thaght,especially his thaght on eduation has had a profound influore
+1010,1278,3565,1301,3530,1448,1006,1423,on Chinese society In the zlst centuny confucian thaght not only retains the 
+1005,1423,3633,1434,3638,1567,973,1555,attention of the chinese,but it also wins an increasing attention from the internation
+999,1573,1355,1587,1335,1729,985,1736,community

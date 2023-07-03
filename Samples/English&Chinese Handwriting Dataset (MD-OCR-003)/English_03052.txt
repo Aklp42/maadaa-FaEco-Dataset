@@ -1,0 +1,20 @@
+201,552,2539,400,2533,534,204,683,every every day by by bike drive live stop think of
+213,853,2472,719,2472,856,222,972,cross viver many village between between...and... bridge
+231,1139,2606,1014,2618,1148,237,1270,boat ropeway year afraid like villager leave dream true
+246,1440,578,1422,578,1528,255,1543,come true
+903,1395,1108,1381,1113,1582,898,1588,###
+37,1764,236,1764,236,1870,37,1870,unit4.
+292,1723,2609,1619,2615,1750,286,1850,rule arrive be on time hallway hall dining listen listen to
+261,2018,2739,1911,2745,2048,271,2145,fight sorry outside wear important bring have uniform quiet out
+258,2303,2691,2215,2694,2340,252,2440,go out practice dish do the dishes before make one's bed
+280,2595,2903,2507,2900,2647,289,2720,dirty kitchen more noisy relax read terrible feel strite be strict
+293,2892,2804,2804,2809,2944,301,3019,with sb remember follow follow the rules luck keep hair learn
+305,3173,2575,3113,2589,3245,302,3306,strict strict strict strict strict strict strict strict
+325,3470,489,3470,489,3582,325,3582,strict
+636,3386,840,3386,840,3631,636,3631,###
+131,3761,2892,3704,2892,3857,127,3905,unit5. panda zoo tiger elephant koala lion giraffa animal cute lazy smart
+465,385,532,385,532,455,465,455,###
+645,373,711,373,711,449,645,449,###
+830,361,891,361,891,431,830,431,###
+2475,254,2545,254,2545,336,2475,336,###
+2733,236,2809,236,2809,309,2733,309,###

@@ -1,0 +1,35 @@
+1801,0,1971,0,1971,63,1801,63,Date 
+2328,6,2509,6,2509,72,2328,72,Page
+167,86,627,86,627,222,167,222,Dear editor.
+383,224,2808,250,2808,377,377,357,I'm writing to tell you something about how we students use
+152,354,2845,374,2840,506,141,498,the Internet.As we all know,the Internet is playing an important
+161,483,2681,489,2679,642,152,636,poort in our daily life.We often read news and learn foreign
+181,767,2940,770,2938,908,187,914,to music,enjoy films and play computer games on it.We can
+152,916,2089,916,2089,1057,152,1057,even do shpping without learing our homes.
+374,1043,2785,1043,2785,1184,374,1184,However,it has its disadvaintages.We waste too much
+170,1184,2716,1184,2716,1322,170,1322,time playing games,which has a bad effect on our studies.
+144,1331,2774,1331,2774,1469,144,1469,What's worse,the bad information on the internet does great
+152,1475,2940,1475,2940,1616,152,1616,horm to us.I hope we can make use of the internet properhy
+155,1624,797,1624,797,1745,155,1745,for our studies.
+207,1745,1269,1745,1269,1886,207,1886,###
+69,2028,391,2028,391,2166,69,2166,###
+92,2174,2984,2188,2984,2329,92,2315,1.Without so many measures taken before,the environment couldn't
+138,2312,2000,2355,2000,2467,141,2447,have became so beautiful and pleasant.
+78,2470,2866,2470,2866,2602,78,2602,2.The girl who three international gold medals in one year.How
+109,2611,2751,2611,2751,2746,109,2746,was it that she managed to make such great achievements?
+69,2735,2837,2758,2825,2896,72,2873,3.The governments of the world failed to do that what they could
+132,2893,2057,2896,2057,3025,129,3020,to precent the catastople of the war in libya.
+75,3034,2857,3043,2860,3158,81,3169,4.The fanous TVtower is about 140 metnes tall.It has the same
+141,3178,1620,3178,1620,3302,141,3302,height as hill wearby our school.
+58,3307,2802,3284,2794,3451,63,3440,5.The rubbish is drity and smells terrible.You must get it cleared
+115,3476,1318,3476,1318,3585,115,3585,away as soon as possible.
+49,3571,2791,3557,2788,3689,43,3738,6.We can appreciate many wonderful scenes around the mountain.It
+124,3749,2129,3715,2135,3833,121,3885,is said that there to an attractive lake beyond it.
+206,1896,1211,1896,1211,2034,206,2034,###
+167,642,722,642,722,782,167,782,langnages by
+766,649,1012,649,1012,762,766,762,###
+1028,648,2909,648,2909,777,1028,777,ourselves on the Internet.We can also listen
+1551,1612,2848,1612,2848,1739,1551,1739,###
+1295,1750,2440,1750,2440,1877,1295,1877,###
+1237,1888,2923,1888,2923,2026,1237,2026,###
+449,2041,2871,2041,2871,2173,449,2173,###

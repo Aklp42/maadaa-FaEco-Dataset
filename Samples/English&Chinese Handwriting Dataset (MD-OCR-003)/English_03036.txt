@@ -1,0 +1,35 @@
+1637,354,1787,354,1787,418,1637,418,Date
+2103,346,2276,346,2276,412,2103,412,Page
+207,483,2660,420,2666,547,207,605,fallen oill bottle be.And Xiao Ming said to his mother,"If I did
+167,619,2575,556,2584,668,164,728,something about the bottle,you would think that it was I who
+187,731,774,711,771,815,187,838,knocked it over".
+334,849,2615,783,2615,907,337,953,I disagree with what the mother did in the story.I think
+181,956,2578,913,2581,1033,181,1091,parents should set a good example to their their children.They
+190,1100,2713,1033,2713,1146,187,1209,should not only care of for their children's health,but their minds.
+188,1218,2593,1157,2590,1267,195,1318,They should let their children know it is a pleasure to help
+173,1333,2572,1281,2575,1382,178,1451,others who are in trouble.We live in the society which is a
+181,1456,1220,1425,1223,1546,178,1583,big family for all of us.
+374,1586,2748,1513,2758,1641,380,1701,Evergone should do something good to build up our society,
+199,1718,437,1718,437,1822,199,1822,rifht?
+138,1833,489,1833,489,1951,138,1951,###
+187,1960,998,1948,1007,2058,193,2075,One possible version:
+457,2081,2765,2032,2768,2161,452,2213,Dering the summer holidays this year,I thought it necessany
+147,2219,2811,2164,2814,2282,150,2334,for me to do something meaningful instead of staying at home playing
+141,2354,2641,2302,2647,2426,152,2481,compater games all day.After serveral attempts,I eventually got
+155,2495,2463,2443,2471,2547,155,2599,a job as a cleaner at McDonald's fast food restaurant.
+368,2610,2733,2547,2730,2682,371,2725,I worked seven hours a day for three weeks.Every day I
+147,2740,2814,2694,2820,2817,144,2863,went to work in the morning and got home late into the night.
+161,2881,2716,2829,2713,2944,167,3001,The job tough and boring and seemed endless,which made me
+155,3022,2751,2953,2756,3076,155,3140,so exhan exharsted that I nearly gave it up halfway.After all,
+170,3148,2788,3088,2785,3203,182,3267,I stuck to it with great determination,ending up finshing the
+170,3294,2025,3252,2025,3358,179,3413,job successfully before the new term began.
+468,3422,2830,3355,2846,3483,474,3541,Ih Tired as I was,I benefited a lot from the experitnce
+140,3559,2761,3504,2758,3608,146,3681,Now,I  understand what labor means.I think it is really a
+137,3702,1593,3671,1593,3799,134,3833,successful and workhuhile experience.
+1113,721,2545,690,2548,769,1131,806,###
+2025,1417,2560,1411,2560,1502,2028,1523,###
+1624,1678,2678,1657,2678,1760,1624,1782,###
+2174,1806,2569,1806,2569,1888,2174,1888,###
+1903,1924,2557,1924,2557,2025,1903,2025,###
+1617,3678,2721,3638,2721,3732,1617,3772,###
+936,3839,2742,3778,2745,3869,939,3927,###
