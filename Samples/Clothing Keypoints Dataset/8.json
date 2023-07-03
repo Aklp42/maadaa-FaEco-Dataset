@@ -1,0 +1,228 @@
+{
+    "image": {
+        "id": "2a451093de18c3c1f6ababb528c41588", 
+        "orientation": 0, 
+        "rawFilePath": "17nvvim/shop", 
+        "rawFilename": "b056826_17nvvim_shop.jpg"
+    }, 
+    "objects": {
+        "clothes": [
+            {
+                "attributes": {
+                    "content": {
+                        "ts": "2018-01-01T00:00:00+8:00", 
+                        "typeId": 8, 
+                        "typeName": "short-sleeved_dress"
+                    }
+                }, 
+                "id": "a441a728798542f2ba9b96a143202697", 
+                "imageId": "2a451093de18c3c1f6ababb528c41588", 
+                "landmarks": {
+                    "31": {
+                        "points": [
+                            {
+                                "name": "1", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "2", 
+                                "occlusion": 0, 
+                                "x": 166, 
+                                "y": 132
+                            }, 
+                            {
+                                "name": "3", 
+                                "occlusion": 0, 
+                                "x": 191, 
+                                "y": 153
+                            }, 
+                            {
+                                "name": "4", 
+                                "occlusion": 0, 
+                                "x": 230, 
+                                "y": 165
+                            }, 
+                            {
+                                "name": "5", 
+                                "occlusion": 0, 
+                                "x": 274, 
+                                "y": 152
+                            }, 
+                            {
+                                "name": "6", 
+                                "occlusion": 0, 
+                                "x": 294, 
+                                "y": 133
+                            }, 
+                            {
+                                "name": "7", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "8", 
+                                "occlusion": 0, 
+                                "x": 134, 
+                                "y": 145
+                            }, 
+                            {
+                                "name": "9", 
+                                "occlusion": 0, 
+                                "x": 115, 
+                                "y": 195
+                            }, 
+                            {
+                                "name": "10", 
+                                "occlusion": 0, 
+                                "x": 82, 
+                                "y": 247
+                            }, 
+                            {
+                                "name": "11", 
+                                "occlusion": 0, 
+                                "x": 140, 
+                                "y": 281
+                            }, 
+                            {
+                                "name": "12", 
+                                "occlusion": 0, 
+                                "x": 149, 
+                                "y": 260
+                            }, 
+                            {
+                                "name": "13", 
+                                "occlusion": 0, 
+                                "x": 155, 
+                                "y": 242
+                            }, 
+                            {
+                                "name": "14", 
+                                "occlusion": 0, 
+                                "x": 156, 
+                                "y": 258
+                            }, 
+                            {
+                                "name": "15", 
+                                "occlusion": 0, 
+                                "x": 174, 
+                                "y": 289
+                            }, 
+                            {
+                                "name": "16", 
+                                "occlusion": 0, 
+                                "x": 160, 
+                                "y": 324
+                            }, 
+                            {
+                                "name": "17", 
+                                "occlusion": 0, 
+                                "x": 125, 
+                                "y": 448
+                            }, 
+                            {
+                                "name": "18", 
+                                "occlusion": 0, 
+                                "x": 114, 
+                                "y": 578
+                            }, 
+                            {
+                                "name": "19", 
+                                "occlusion": 0, 
+                                "x": 227, 
+                                "y": 621
+                            }, 
+                            {
+                                "name": "20", 
+                                "occlusion": 0, 
+                                "x": 342, 
+                                "y": 580
+                            }, 
+                            {
+                                "name": "21", 
+                                "occlusion": 0, 
+                                "x": 321, 
+                                "y": 446
+                            }, 
+                            {
+                                "name": "22", 
+                                "occlusion": 0, 
+                                "x": 291, 
+                                "y": 323
+                            }, 
+                            {
+                                "name": "23", 
+                                "occlusion": 0, 
+                                "x": 278, 
+                                "y": 284
+                            }, 
+                            {
+                                "name": "24", 
+                                "occlusion": 0, 
+                                "x": 292, 
+                                "y": 259
+                            }, 
+                            {
+                                "name": "25", 
+                                "occlusion": 0, 
+                                "x": 304, 
+                                "y": 226
+                            }, 
+                            {
+                                "name": "26", 
+                                "occlusion": 0, 
+                                "x": 302, 
+                                "y": 253
+                            }, 
+                            {
+                                "name": "27", 
+                                "occlusion": 0, 
+                                "x": 307, 
+                                "y": 282
+                            }, 
+                            {
+                                "name": "28", 
+                                "occlusion": 0, 
+                                "x": 385, 
+                                "y": 226
+                            }, 
+                            {
+                                "name": "29", 
+                                "occlusion": 0, 
+                                "x": 348, 
+                                "y": 199
+                            }, 
+                            {
+                                "name": "30", 
+                                "occlusion": 0, 
+                                "x": 330, 
+                                "y": 156
+                            }, 
+                            {
+                                "name": "31", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        ], 
+                        "sourceQuality": "Labeled", 
+                        "ts": "2018-01-01T00:00:00+08:00"
+                    }
+                }, 
+                "position": {
+                    "bottom": 634, 
+                    "left": 75, 
+                    "right": 395, 
+                    "sourceQuality": "Labeled", 
+                    "top": 126, 
+                    "ts": "2018-01-01T00:00:00+08:00"
+                }, 
+                "schemaVersion": "0.0.1", 
+                "typeId": 9, 
+                "typeName": "clothes"
+            }
+        ]
+    }
+}

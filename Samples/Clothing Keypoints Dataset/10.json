@@ -1,0 +1,156 @@
+{
+    "image": {
+        "id": "0ec00ba094690d4fcf126b66cb07de76", 
+        "orientation": 0, 
+        "rawFilePath": "17rfk7c/user", 
+        "rawFilename": "b101323_17rfk7c_user.jpg"
+    }, 
+    "objects": {
+        "clothes": [
+            {
+                "attributes": {
+                    "content": {
+                        "ts": "2018-01-01T00:00:00+8:00", 
+                        "typeId": 10, 
+                        "typeName": "sling_dress"
+                    }
+                }, 
+                "id": "066aa46cefc948579114f30c5c7f1d11", 
+                "imageId": "0ec00ba094690d4fcf126b66cb07de76", 
+                "landmarks": {
+                    "19": {
+                        "points": [
+                            {
+                                "name": "1", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "2", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "3", 
+                                "occlusion": 0, 
+                                "x": 163, 
+                                "y": 360
+                            }, 
+                            {
+                                "name": "4", 
+                                "occlusion": 0, 
+                                "x": 191, 
+                                "y": 404
+                            }, 
+                            {
+                                "name": "5", 
+                                "occlusion": 0, 
+                                "x": 246, 
+                                "y": 402
+                            }, 
+                            {
+                                "name": "6", 
+                                "occlusion": 0, 
+                                "x": 290, 
+                                "y": 400
+                            }, 
+                            {
+                                "name": "7", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "8", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "9", 
+                                "occlusion": 0, 
+                                "x": 145, 
+                                "y": 491
+                            }, 
+                            {
+                                "name": "10", 
+                                "occlusion": 0, 
+                                "x": 146, 
+                                "y": 547
+                            }, 
+                            {
+                                "name": "11", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "12", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "13", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "14", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "15", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            {
+                                "name": "16", 
+                                "occlusion": 0, 
+                                "x": 373, 
+                                "y": 584
+                            }, 
+                            {
+                                "name": "17", 
+                                "occlusion": 0, 
+                                "x": 369, 
+                                "y": 535
+                            }, 
+                            {
+                                "name": "18", 
+                                "occlusion": 0, 
+                                "x": 362, 
+                                "y": 468
+                            }, 
+                            {
+                                "name": "19", 
+                                "occlusion": 1, 
+                                "x": 0, 
+                                "y": 0
+                            }
+                        ], 
+                        "sourceQuality": "Labeled", 
+                        "ts": "2018-01-01T00:00:00+08:00"
+                    }
+                }, 
+                "position": {
+                    "bottom": 622, 
+                    "left": 116, 
+                    "right": 466, 
+                    "sourceQuality": "Labeled", 
+                    "top": 248, 
+                    "ts": "2018-01-01T00:00:00+08:00"
+                }, 
+                "schemaVersion": "0.0.1", 
+                "typeId": 9, 
+                "typeName": "clothes"
+            }
+        ]
+    }
+}
