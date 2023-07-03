@@ -1,0 +1,33 @@
+{
+    "image": {
+        "id": "11c95e7df7ba64ae54deecda9f81ba57", 
+        "orientation": 0, 
+        "rawFilePath": "/上衣", 
+        "rawFilename": "8.jpg"
+    }, 
+    "objects": {
+        "clothes": [
+            {
+                "attributes": {
+                    "content": {
+                        "category": "上衣", 
+                        "clothLen": "不确定", 
+                        "collor": "不确定", 
+                        "gesture": "正面", 
+                        "integral": "显示0-25%", 
+                        "pattern": "纯色", 
+                        "scene": "逛街,休闲,日常", 
+                        "sleeve": "不确定", 
+                        "sleeveLen": "不确定", 
+                        "type": "雪纺衫/真丝杉"
+                    }
+                }, 
+                "id": "a33097da96b546d7bb07763ead5f5c96", 
+                "imageId": "11c95e7df7ba64ae54deecda9f81ba57", 
+                "schemaVersion": "0.0.1", 
+                "typeId": 1, 
+                "typeName": "clothes"
+            }
+        ]
+    }
+}

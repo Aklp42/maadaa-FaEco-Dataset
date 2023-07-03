@@ -1,0 +1,33 @@
+{
+    "image": {
+        "id": "5c559f7f9dbaa109c91844595a2c0428", 
+        "orientation": 0, 
+        "rawFilePath": "/上衣", 
+        "rawFilename": "950.jpg"
+    }, 
+    "objects": {
+        "clothes": [
+            {
+                "attributes": {
+                    "content": {
+                        "category": "上衣", 
+                        "clothLen": "不确定", 
+                        "collor": "不确定", 
+                        "gesture": "正面", 
+                        "integral": "显示25-50%", 
+                        "pattern": "字母图案", 
+                        "scene": "逛街,休闲,日常", 
+                        "sleeve": "常规", 
+                        "sleeveLen": "短袖", 
+                        "type": "T恤"
+                    }
+                }, 
+                "id": "8bbd7597e8524f1bbb6333540aae8803", 
+                "imageId": "5c559f7f9dbaa109c91844595a2c0428", 
+                "schemaVersion": "0.0.1", 
+                "typeId": 1, 
+                "typeName": "clothes"
+            }
+        ]
+    }
+}
